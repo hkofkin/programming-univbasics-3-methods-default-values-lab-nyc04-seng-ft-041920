@@ -2,7 +2,7 @@
 # For output purposes, use "puts" instead of "print" or "p"
 
 def meal_choice(veg1, side, protein="tofu")
-  "What a nutritious meal!"
+  puts "What a nutritious meal!"
   "A plate of #{protein} with #{veg1} and #{side}."
 end
 
